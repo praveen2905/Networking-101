@@ -25,7 +25,7 @@ RESET=`tput sgr0`
 section_header() {
     echo
     echo "${BG_BLUE}${BOLD}${WHITE}╔════════════════════════════════════════════════════════╗${RESET}"
-    echo "${BG_BLUE}${BOLD}${WHITE}  Welcome to Dr Abhishek Cloud Tutorials Do like the video  $1${RESET}"
+    echo "${BG_BLUE}${BOLD}${WHITE}  Welcome to Praveen Tech Cloud Tutorials Do like the video  $1${RESET}"
     echo "${BG_BLUE}${BOLD}${WHITE}╚════════════════════════════════════════════════════════╝${RESET}"
     echo
 }
@@ -47,7 +47,7 @@ spinner() {
 
 # Welcome message
 clear
-section_header "Dr. Abhishek's Network Lab Setup"
+section_header "Praveen Tech Network Lab Setup"
 echo "${GREEN}${BOLD}This script will configure a custom GCP network environment${RESET}"
 echo "${CYAN}For more cloud tutorials, visit: https://www.youtube.com/@drabhishek.5460${RESET}"
 echo
@@ -120,9 +120,8 @@ echo "${GREEN}✓ RDP rule created${RESET}"
 
 # Completion message
 section_header "Lab Completed Successfully!"
-echo "${BG_GREEN}${BOLD}${BLACK}Congratulations on completing Dr. Abhishek's Network Lab!${RESET}"
+echo "${BG_GREEN}${BOLD}${BLACK}Congratulations on completing Praveen Tech Network Lab!${RESET}"
 echo
 echo "${MAGENTA}${BOLD}For more cloud computing tutorials and labs:${RESET}"
-echo "${CYAN}${BOLD}Subscribe to Dr. Abhishek's YouTube channel:${RESET}"
-echo "${BLUE}${UNDERLINE}https://www.youtube.com/@drabhishek.5460${RESET}"
+echo "${CYAN}${BOLD}Subscribe to Praveen Tech YouTube channel:${RESET}"
 echo
