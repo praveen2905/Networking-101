@@ -31,7 +31,7 @@ export REGION_3=
 ```
 
 ```bash
-curl -LO https://raw.githubusercontent.com/Itsabhishek7py/GoogleCloudSkillsboost/refs/heads/main/Networking%20101/abhishek.sh
+curl -LO https://raw.githubusercontent.com/praveen2905/Networking-101/refs/heads/main/praveen.sh
 sudo chmod +x praveen.sh
 ./praveen.sh
 ```
